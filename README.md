@@ -2,3 +2,7 @@
 > E-commerce Website Demo / Product View
 
 It was a small mockup website built while interning at **Curis**.
+
+# Live View
+
+https://0x48piraj.github.io/curis-mockup/
