@@ -1,2 +1,2 @@
 # curis-mockup
-E-commerce Website Demo / Product View
+> E-commerce Website Demo / Product View
