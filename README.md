@@ -5,4 +5,4 @@ It was a small mockup website built while interning at **Curis**.
 
 # Live View
 
-https://0x48piraj.github.io/curis-mockup/
+https://0x48piraj.github.io/Curis-Mockup/
