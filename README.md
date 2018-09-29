@@ -19,7 +19,7 @@ https://0x48piraj.github.io/Curis-Mockup/
 
 ## Curis Design Mockups
 
-> Graphics contains in `extras\extras/graphic_vectors`
+> Graphics contains in `/extras/graphic_vectors`
 
 
 
