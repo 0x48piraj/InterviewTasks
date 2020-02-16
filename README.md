@@ -1,25 +1,9 @@
-# TASK 1
+# Intern Interview Tasks
 
-## Curis Website Mockup
-> E-commerce Website Demo / Product View
+> Tasks that were given on Interviews. This repository contains all the code which I could open-source.
 
-It was a small mockup website built while interning at **Curis**.
+#### Startups backed up by Manipal University, Jaipur
 
-## Live View
-
-https://0x48piraj.github.io/Curis-Mockup/
-
-
-## Screenshot
-
-![image](https://user-images.githubusercontent.com/5800726/44732177-5b9b7880-ab02-11e8-8708-38fbeaefe4a1.png)
-
-
-# TASK 2
-
-## Curis Design Mockups
-
-> Graphics contains in `/extras/graphic_vectors`
-
-
-
+* Piltover Technologies - A PWA (Progressive Web App) written in Python/Flask ([/tree/master/Piltover-Technologies](PiltoverTechnologies))
+* Mock-up homepage built for Transpo. ([0x48piraj/Transpo-Mockup](Transpo))
+* E-commerce Product view Mock-up built for Curis. ([0x48piraj/Curis-Mockup](Curis))

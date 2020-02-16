@@ -1,0 +1,7 @@
+{
+  "name": "GCI 2017 CreativeFlaskForm",
+  "description": "A Creative Flask app made during Google Code-In 2017",
+  "repository": "https://github.com/0x48piraj/FOSSASIATask_FlaskAppForm",
+  "logo": "https://avatars3.githubusercontent.com/u/5800726",
+  "keywords": ["flask", "gci", "google"]
+}
